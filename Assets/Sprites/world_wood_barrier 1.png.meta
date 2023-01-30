@@ -1,0 +1,1061 @@
+fileFormatVersion: 2
+guid: 861036f3d1cbe4712828cb1f08f2ff22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: world_wood_barrier 1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 370
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a5217cdb0304b0bbcea8f28705f83d
+      internalID: -596388661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 370
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8eb8a08d70c45db93d5b33f274c1fe
+      internalID: 1817587535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 367
+        width: 126
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ffc9243ace44a98753f9fa756af2e
+      internalID: 1398286670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 425
+        width: 127
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e034217e07e834063a4b73a5fd39eedb
+      internalID: 432067222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 435
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7926ae3c81446b685ee2f768d33edf
+      internalID: -736821711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_5
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 439
+        width: 133
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243c2c68b82e4648a588d3fdfb2323f
+      internalID: 1955427419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 441
+        width: 130
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07812ff5f44746918b513f80a45eb6b
+      internalID: -1148576877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_7
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 443
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2161f3c55c86d46f2b80e65aa3b8c7f9
+      internalID: 1542688167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_8
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 445
+        width: 129
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead973fc908894580946c39bc9f7387e
+      internalID: 901261691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_9
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 446
+        width: 136
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ccf3a80b4f4d16a46961d6d8d7a49
+      internalID: -1328724355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_10
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 374
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3749b2f49a03483eb4edff2b216bc1c
+      internalID: -1035987286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 380
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d32e9319f534107a68a72fe1dc5b9f
+      internalID: -1976990414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 385
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd194f3e5c6042bbac8e0cd65e36c1c
+      internalID: 1435106031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_13
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 388
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a372b0bc2c42c43ee9e6e328cdb6744e
+      internalID: 1209671370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_14
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 389
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463666e8bc2bf4561a56af9585e7489f
+      internalID: -1290898798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_15
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 388
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f85cd430d854d4b9b7d99c51010c62
+      internalID: 1305624575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_16
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 385
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8eebbf1f72b44758def3cb4418b12d
+      internalID: 130725913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 266
+        width: 141
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982293d1fb00412e9b55ac3f86e69f1
+      internalID: 1236136458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_18
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 260
+        width: 144
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94756859c97f4f999e90781996843fb
+      internalID: -438895593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 249
+        width: 139
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a835c0f0315446c8bfc5a689f27723
+      internalID: -2035326717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 232
+        width: 121
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2c7ceeb8bf8450782278bc755ea65a
+      internalID: -104078371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 194
+        width: 123
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952cefbf2113493a9bb580b94fb9bc6
+      internalID: 318364786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_22
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 194
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032bc3cfcf3c4036853a4328d1849fa
+      internalID: 219978839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_23
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 194
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bf1fe38d97d44b8915befd36850279
+      internalID: -1553422368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_24
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 194
+        width: 132
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f76755d8e3147fdacaebafe6f2d23e
+      internalID: 1638557252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 194
+        width: 139
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba2c568d50548b9a39548f19766221
+      internalID: 1051034275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_26
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 194
+        width: 141
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c248e7ce4b46d7b980b80c7d637d1
+      internalID: 2009895471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 200
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e8a071750494722a900a2b4ef02225
+      internalID: -70186615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 194
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eed9f2bc55a4e5f843ecb875ba8218
+      internalID: 444390760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_29
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 194
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0361a47683242e09b92e1d353b13bc
+      internalID: 164160730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_30
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 194
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ef44599d1f34b86bc831ede71e0e16
+      internalID: -1992441745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 13
+        width: 142
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024d1c4b013af43f88eb8120eb5775d0
+      internalID: -1416347738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2144d86dff4ef4fe8838e9aff623c2cb
+      internalID: -712347478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0464b9c1bf174e8eb5000dba497b586
+      internalID: 1144936708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_34
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00532bc7cd477411b8702d9f5cffa34b
+      internalID: 1207525438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_35
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c250dcc7fa45d2a3d9b524c746934
+      internalID: 1487750514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_36
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe31ef626a8474da030374341a7de7
+      internalID: 1138773826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_37
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840a0dce23f0421dab5a43bd6bf3086
+      internalID: 1443987222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_38
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a499639ff0f4bd1b1ba582e335b1eb
+      internalID: -2105736963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_39
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536a38372f944dd0947e598297ccb32
+      internalID: 1649188597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: world_wood_barrier 1_40
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 12
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd093085648534ad098688eac1f3a3f7
+      internalID: -2037572847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      world_wood_barrier 1_17: 1236136458
+      world_wood_barrier 1_13: 1209671370
+      world_wood_barrier 1_3: 432067222
+      world_wood_barrier 1_22: 219978839
+      world_wood_barrier 1_30: -1992441745
+      world_wood_barrier 1_4: -736821711
+      world_wood_barrier 1_28: 444390760
+      world_wood_barrier 1_31: -1416347738
+      world_wood_barrier 1_5: 1955427419
+      world_wood_barrier 1_32: -712347478
+      world_wood_barrier 1_1: 1817587535
+      world_wood_barrier 1_8: 901261691
+      world_wood_barrier 1_11: -1976990414
+      world_wood_barrier 1_9: -1328724355
+      world_wood_barrier 1_23: -1553422368
+      world_wood_barrier 1_29: 164160730
+      world_wood_barrier 1_37: 1443987222
+      world_wood_barrier 1_6: -1148576877
+      world_wood_barrier 1_15: 1305624575
+      world_wood_barrier 1_25: 1051034275
+      world_wood_barrier 1_14: -1290898798
+      world_wood_barrier 1_12: 1435106031
+      world_wood_barrier 1_21: 318364786
+      world_wood_barrier 1_34: 1207525438
+      world_wood_barrier 1_26: 2009895471
+      world_wood_barrier 1_2: 1398286670
+      world_wood_barrier 1_27: -70186615
+      world_wood_barrier 1_20: -104078371
+      world_wood_barrier 1_24: 1638557252
+      world_wood_barrier 1_35: 1487750514
+      world_wood_barrier 1_0: -596388661
+      world_wood_barrier 1_16: 130725913
+      world_wood_barrier 1_38: -2105736963
+      world_wood_barrier 1_40: -2037572847
+      world_wood_barrier 1_7: 1542688167
+      world_wood_barrier 1_39: 1649188597
+      world_wood_barrier 1_36: 1138773826
+      world_wood_barrier 1_18: -438895593
+      world_wood_barrier 1_33: 1144936708
+      world_wood_barrier 1_10: -1035987286
+      world_wood_barrier 1_19: -2035326717
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

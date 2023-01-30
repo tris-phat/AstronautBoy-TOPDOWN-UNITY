@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: 2a5c0e6378f6b47648fe1cfbeff81d2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_vanish_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 636
+        width: 164
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5788b31138f47b0aada99ff03acf94
+      internalID: 422988832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_1
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 636
+        width: 162
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a024569e974f869dab1ffd9c8ddb2
+      internalID: -1496722962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 651
+        width: 147
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1c5d47425347da802aa3394f5acb4
+      internalID: 889045169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 651
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6bdf2a993e463f9c22a7a7d502fed
+      internalID: 604921562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_4
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 651
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6602a1f40664cb3b1109c8a7ff56e8
+      internalID: 1015164884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_5
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 636
+        width: 161
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971dffef890547c896fb9d115515e3d
+      internalID: -70350023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_6
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 636
+        width: 163
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc5d807f272413a88c40a4e889713f
+      internalID: -90058663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_7
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 636
+        width: 162
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745cbe4f50ea4818876c88d7abb8246
+      internalID: 51536208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_8
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 651
+        width: 148
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123d6c077b7ee4ac4af6e8b08e1a29eb
+      internalID: 1605889814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_9
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 651
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b84ae36b68de453b853756af79d02c7
+      internalID: -1775817007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_10
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 651
+        width: 149
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a38a8a087147658528a41641c0d68
+      internalID: 308377683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 336
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee681ff358545279ac7ca41a50db81
+      internalID: -193641716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 336
+        width: 163
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb252f90f1343d7aa7ba93c34aebb4
+      internalID: -888034080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_13
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 351
+        width: 166
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644bdc565426486a96ed42d0dca3b3e
+      internalID: 1456228418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_14
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 351
+        width: 168
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832adb310cebc41f5b699f69c41e0746
+      internalID: -1282506011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 351
+        width: 171
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ea17023704d41038f496e0ee3a9e86
+      internalID: -21202286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_16
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 351
+        width: 172
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c96ec9546214c9eac09ffb4b8d2079
+      internalID: 1025053854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_17
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 351
+        width: 172
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db1008b3d474751acd89e3907286e4
+      internalID: 322718401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_18
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 346
+        width: 186
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a6fa3147ec43038a86b394960fe13
+      internalID: 1214238504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_19
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 350
+        width: 177
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35190198d73d549bd84da18eae955fb5
+      internalID: -1078519319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 39
+        width: 192
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7337fc68539546b1bf6582e722ede96
+      internalID: -1369450715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_21
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 342
+        width: 195
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c138de5227494e34bc1a3fd9c96700b
+      internalID: 328275028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 48
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea6f78904ca04cab9806150e14d1567
+      internalID: -758997558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_23
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 351
+        width: 179
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5233829630be49e2ac4bc61cf12c198
+      internalID: 163692108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_56
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 156
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38257852dee644f0b947a268e8b1b106
+      internalID: -1607248117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_57
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 156
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc5942137fcf42b6891dfee09d3ff20
+      internalID: 279581286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_58
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 156
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55bce9afba574f0eb65d582ce6a4aee
+      internalID: 1005567847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_59
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbce918b7d0b745b3919d8d399125484
+      internalID: -1169987707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_60
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 156
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caca296f3ed2463c8be3ad2541d5303
+      internalID: 1313415027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_61
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 159
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d717e9683ba7f4f16973dd985f995f03
+      internalID: 1343358097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_62
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd16c0477bd4f6e84afef1b76e5cfd
+      internalID: 2128928596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_68
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872f29e569054a6c9616a4cc030bc7c
+      internalID: -1354346077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_69
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5fb5026255f41a9ba419cd028fe102
+      internalID: 1556027986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_70
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 127
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f847d3966e8745dfbae100fa92cb681
+      internalID: -1553579617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_71
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5306e4db3864603abc64bff90df934
+      internalID: -220498901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_72
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 131
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c6476f34d6c44e49444cff94ee9a6e
+      internalID: 1180394872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_73
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2464b9f32f048269bec938766e97d4
+      internalID: 1276481986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_79
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 109
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0aaec6ab6f46d9b3d03f16966f126
+      internalID: -169684554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_80
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff9a7b754a1c4374ad6986885615544
+      internalID: -387149456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_81
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb5bd444f04a4dc6843a8bf7994b4ed
+      internalID: 798143900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_82
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 111
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9cc0597797438691b9dd777f4c3a3
+      internalID: 456243548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_83
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6504f4bebbb4402b1e669c198a3e92
+      internalID: -1393696443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_87
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 96
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b641553961eeb4f74949f910c81f67c1
+      internalID: -205850895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_88
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4510bf7e9224bc586c988d356f8d5a
+      internalID: -1440077100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_89
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 96
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158895909e93f4423b7321e9453fb114
+      internalID: 1899118015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_90
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb64789c5ef4095aea358e36b298b2
+      internalID: -748353176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_91
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e7711d29f14cd7a61e1b63b9ac9de
+      internalID: 1079932354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_92
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 102
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406573666024439d9758141c85f8fcd
+      internalID: 1872117561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_100
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 78
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3484e5f366f84c34b649d7cd5ecd04f
+      internalID: 1645351404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_101
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 80
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8ee32e7ee3429c903e656e39b0659
+      internalID: 1116341391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_102
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 82
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5cf46c6f6240099d2422c86d6f2ed
+      internalID: -52090873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_103
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a23727afa0ab49e383fc6b500121c3c
+      internalID: -1677084047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_109
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 63
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bdd206fe5bc45b9a57b9196823a439
+      internalID: 169676286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_110
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735aad3c974774729892575ef1f7fe29
+      internalID: 232342968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_111
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0e4536cd3c645939d17ef73f11d518
+      internalID: -1548971607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_112
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 63
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1da4145624043a9b0338d640051853
+      internalID: 608367436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_113
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 63
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6899198e26a8447ffad6988953326383
+      internalID: 1862784322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_114
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 67
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3355df1e304b4b7386831fee8f17364
+      internalID: -1220477064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_vanish_115
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 67
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a55a8de37ce4c528150d9595a3c80a
+      internalID: 1775380782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character_vanish_29: 1647980549
+      character_vanish_9: -1775817007
+      character_vanish_99: -1980025503
+      character_vanish_10: 308377683
+      character_vanish_17: 322718401
+      character_vanish_4: 1015164884
+      character_vanish_109: 169676286
+      character_vanish_43: -1036712767
+      character_vanish_38: 1030067074
+      character_vanish_13: 1456228418
+      character_vanish_56: -1607248117
+      character_vanish_106: 290882173
+      character_vanish_79: -169684554
+      character_vanish_111: -1548971607
+      character_vanish_89: 1899118015
+      character_vanish_63: -1576959305
+      character_vanish_72: 1180394872
+      character_vanish_101: 1116341391
+      character_vanish_52: 1130163718
+      character_vanish_14: -1282506011
+      character_vanish_114: -1220477064
+      character_vanish_75: -558888454
+      character_vanish_68: -1354346077
+      character_vanish_76: 5758492
+      character_vanish_98: -1011039190
+      character_vanish_74: 2019440097
+      character_vanish_31: -434889585
+      character_vanish_32: -1986707923
+      character_vanish_57: 279581286
+      character_vanish_69: 1556027986
+      character_vanish_104: 903501014
+      character_vanish_35: -1180090620
+      character_vanish_97: 1693544594
+      character_vanish_8: 1605889814
+      character_vanish_3: 604921562
+      character_vanish_80: -387149456
+      character_vanish_18: 1214238504
+      character_vanish_49: -549175106
+      character_vanish_70: -1553579617
+      character_vanish_115: 1775380782
+      character_vanish_26: 1538996579
+      character_vanish_108: 1021381919
+      character_vanish_42: -1878631257
+      character_vanish_90: -748353176
+      character_vanish_67: 1150060265
+      character_vanish_112: 608367436
+      character_vanish_61: 1343358097
+      character_vanish_55: -273499852
+      character_vanish_20: -1369450715
+      character_vanish_103: -1677084047
+      character_vanish_86: -207918023
+      character_vanish_16: 1025053854
+      character_vanish_44: -1089312241
+      character_vanish_66: 199652077
+      character_vanish_46: -884360806
+      character_vanish_19: -1078519319
+      character_vanish_30: -1127146046
+      character_vanish_33: -1134707915
+      character_vanish_11: -193641716
+      character_vanish_45: -472644864
+      character_vanish_78: -133248745
+      character_vanish_81: 798143900
+      character_vanish_82: 456243548
+      character_vanish_50: -1482252365
+      character_vanish_84: -2076744358
+      character_vanish_15: -21202286
+      character_vanish_93: -2132547105
+      character_vanish_94: 242974863
+      character_vanish_28: 1645132586
+      character_vanish_34: 690832331
+      character_vanish_60: 1313415027
+      character_vanish_21: 328275028
+      character_vanish_53: -2430317
+      character_vanish_7: 51536208
+      character_vanish_37: -191730338
+      character_vanish_110: 232342968
+      character_vanish_92: 1872117561
+      character_vanish_2: 889045169
+      character_vanish_23: 163692108
+      character_vanish_77: 694028287
+      character_vanish_5: -70350023
+      character_vanish_25: 1611146703
+      character_vanish_91: 1079932354
+      character_vanish_96: 1327154949
+      character_vanish_24: 523719717
+      character_vanish_95: 2079603760
+      character_vanish_6: -90058663
+      character_vanish_51: -1092067184
+      character_vanish_59: -1169987707
+      character_vanish_73: 1276481986
+      character_vanish_0: 422988832
+      character_vanish_83: -1393696443
+      character_vanish_41: 1646429646
+      character_vanish_88: -1440077100
+      character_vanish_100: 1645351404
+      character_vanish_39: -1450443792
+      character_vanish_40: 1047959156
+      character_vanish_1: -1496722962
+      character_vanish_12: -888034080
+      character_vanish_64: -551960471
+      character_vanish_113: 1862784322
+      character_vanish_102: -52090873
+      character_vanish_36: 219796254
+      character_vanish_27: -132439845
+      character_vanish_54: 767415758
+      character_vanish_47: 101142719
+      character_vanish_48: -1658972474
+      character_vanish_65: 1625742645
+      character_vanish_62: 2128928596
+      character_vanish_85: -1231418680
+      character_vanish_71: -220498901
+      character_vanish_87: -205850895
+      character_vanish_22: -758997558
+      character_vanish_105: 279511618
+      character_vanish_58: 1005567847
+      character_vanish_107: -1383549773
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

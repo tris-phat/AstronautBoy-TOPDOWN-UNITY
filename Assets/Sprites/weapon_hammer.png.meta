@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: e032b3651260c4bc2a7c08a94d6207eb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: weapon_hammer_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3211
+        width: 254
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0df2266c9e40d0a57d3afbf59ccab
+      internalID: 1902813790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3207
+        width: 253
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bab9342eb794fa58c23c8f8b6c7653
+      internalID: -1853910974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 3201
+        width: 250
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c67a1171bac14cf8b43e1573ca3e7c4
+      internalID: -809611134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 3193
+        width: 244
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c6fec8bf6544b88be95794334f4445
+      internalID: -841726741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_4
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3177
+        width: 232
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3078b4d49614863aa6f7a3f141aed0
+      internalID: 819470736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_5
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 3150
+        width: 196
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11fa013a5894a05ae18fcc31a0b3a9
+      internalID: -102482157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_6
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 3089
+        width: 271
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae2a243bc68e4bcb8b4faa54998cb34
+      internalID: 734565505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_7
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 3112
+        width: 145
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fcba3555f324847a2a47025060f076
+      internalID: 948035511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3095
+        width: 252
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc964e117e54be6b3cda27b0145808
+      internalID: -1082314045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_9
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 3097
+        width: 252
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecc2c7c85e4a478dba3268890efbf34
+      internalID: -845139819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2663
+        width: 252
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ecb02a92c00459ca17180f4ee5061a
+      internalID: 906949884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2661
+        width: 252
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42608c1926b214482b9eb4637a3dc860
+      internalID: 429149627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2659
+        width: 252
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a42e3210674ce4ab76b54137de5ec
+      internalID: -237722662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_13
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 2658
+        width: 250
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c60f2527b6426faa44d6429eed67d
+      internalID: -1227644497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_14
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2658
+        width: 249
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16008af64c14840aea2a3c54f0789684
+      internalID: -296165392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_15
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 2657
+        width: 249
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4742507681646cc8e63b73984def46
+      internalID: -98161159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_16
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2657
+        width: 250
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9f272b709aa489580b65efb3e5b1e7
+      internalID: -617788899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2659
+        width: 250
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b836db0f46187456ca664218d854df95
+      internalID: 186087146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_18
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 2665
+        width: 256
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1da9da3cfd44f9e877e6b471665700
+      internalID: 1887691605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2244
+        width: 260
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662969644aac54121b72449ac4d33532
+      internalID: -1461748261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_20
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2262
+        width: 262
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da834ff7a92aa45f39b287e04b38b913
+      internalID: 288319456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_21
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2272
+        width: 260
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8025c9f4ff46a7a82daef5231bed1
+      internalID: -481128263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_22
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2277
+        width: 260
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd93b5c43ab442a8d7844857a1eb12
+      internalID: 64033596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_23
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2279
+        width: 260
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68ebceb87e244bd8b865850c9c3c93
+      internalID: 1330032096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_24
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 2266
+        width: 122
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8336798dcb92947689675b3dddd97138
+      internalID: -597371967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_25
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2268
+        width: 124
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd038255b9644d279bd6873695b2a23
+      internalID: -805848428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_26
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 2268
+        width: 126
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db19079d465a42a6aa9e7996f1505dc
+      internalID: -1046815395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_27
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 2268
+        width: 128
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb71f187b824928bda44560d3cb930
+      internalID: 1462669685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1840
+        width: 161
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f8bbcb927e9417c9c5acca60ba4426
+      internalID: -1225358315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_29
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1850
+        width: 207
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e7f33fa5aa4e0093a8b598b776c65
+      internalID: -860676877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_30
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1779
+        width: 254
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e5948d0acae41a8a73e70b50a3265d
+      internalID: -495088693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_31
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1763
+        width: 215
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3e09d73eb24171bbc86a67f679396
+      internalID: -238194440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_32
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1779
+        width: 157
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f8e3e95ddd04898bea2fd723cf23ba
+      internalID: 362020209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_33
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1779
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a495674d8534e2a9f1dc18cda21281
+      internalID: 755228803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_34
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 1779
+        width: 123
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca6c9c1e6f044e3db3e9fe58c5b0393
+      internalID: -297735641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_35
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 1779
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c1c13882c04bc4bc592098cff548e
+      internalID: -1085488336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_36
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 1779
+        width: 123
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a475e3f9f191f490396289fd8a794707
+      internalID: -1261524342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_37
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 1779
+        width: 122
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423195f64d79d439b94ba975c1a89ff1
+      internalID: -2134145213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1347
+        width: 122
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652314ab34a8742159b5d1d93b69be30
+      internalID: 1256518607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_39
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1347
+        width: 122
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1803d69de54488a425301e711a1f1
+      internalID: -1616191096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_40
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1347
+        width: 122
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b3a275608ec41339381ea972247505
+      internalID: 1506812714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_41
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1345
+        width: 126
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59798f5a8ad7c48e2b17add58c796efb
+      internalID: -1790287581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_42
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1344
+        width: 144
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930bb2379ade446d884d71edd36a7ae
+      internalID: -1774591394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_43
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1344
+        width: 197
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f4fbe54bfa4f9782ab69afd1ff834
+      internalID: 658304010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_44
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1362
+        width: 242
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bca0032b70f445f86350ed841231b0
+      internalID: 2096368966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_45
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1391
+        width: 258
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5093c0c1eea439082b80d9bdb83d9e
+      internalID: 358876819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_46
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1411
+        width: 260
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c647433268841769a13a9c390009d9
+      internalID: -1733627421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 984
+        width: 260
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2a879b5838428884684c1c022b06b
+      internalID: 1992990536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_48
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 938
+        width: 209
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a358f5c3cbcb45e4880043d7138355f
+      internalID: 788007933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_49
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 940
+        width: 213
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a856f3f08b2143cba8621395f07706d
+      internalID: 853708012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_50
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 944
+        width: 221
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d79cb32ead24d02ae63d2c0b944a9b
+      internalID: -647571978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_51
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 952
+        width: 234
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba633283b1ac4144a4539ad32644bc1
+      internalID: -1207718164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_52
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 972
+        width: 248
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba63fa8950043738829bab6f2c32b0
+      internalID: 12137564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_53
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 1013
+        width: 259
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de86a2057e04c618e2af727e2ed4b8
+      internalID: -703096717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_54
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 946
+        width: 252
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bb4390aed1d48f1a3f617320cbe5f2
+      internalID: -362897249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_55
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 986
+        width: 159
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd62cd04c5aaf493eb6b093cc8a5fd1f
+      internalID: 1498899258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_56
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 1051
+        width: 214
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cbbcf7c2cf7498b8595793c4d9c51d
+      internalID: -2020934726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_57
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 554
+        width: 126
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d1de5add3f14185aad4cf2365a3f9e
+      internalID: 1673017390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_58
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 554
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cecfa2424f46049fc3b5e1d8a8238
+      internalID: -587188151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_59
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 554
+        width: 123
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881cd511e3b94356bf6ca2f89f11860
+      internalID: 666467930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_60
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 554
+        width: 123
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f397dd96e476e4f4cbf3d5daae8ffb8a
+      internalID: -1019847221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_61
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 554
+        width: 122
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc83de593f4d490d988602886f0cc88
+      internalID: -763042272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_62
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 554
+        width: 122
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f111e541c55d487bacb42d3b522702d
+      internalID: 1174946656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_63
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 554
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c924ab130b24e689c91c592909c0c5
+      internalID: 1963181768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_64
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 554
+        width: 124
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5586c6dca6acf459e9ca51771b8b01da
+      internalID: -512227108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_65
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 552
+        width: 130
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c4b2bc6fe547f3b6713a45d81e5fe
+      internalID: -840614926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 121
+        width: 173
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3bb14af9dad4c9b86a75992b9dcc5d
+      internalID: -732877234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_67
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 129
+        width: 218
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3105b303d28b14924ac6355b14bbbaf3
+      internalID: 1499281663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_68
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 139
+        width: 244
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab065ccd13343e88e2938b7ab69811
+      internalID: -148159107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_69
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 145
+        width: 256
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a29ad1dc5f944009ceb784345db439
+      internalID: -294189179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_70
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 131
+        width: 257
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cba3547b09c4a12869adf9b2cea89f
+      internalID: -640227673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon_hammer_71
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 126
+        width: 261
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd89817262994519b5ad99c96a295fb
+      internalID: -1076386960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      weapon_hammer_8: -1082314045
+      weapon_hammer_3: -841726741
+      weapon_hammer_9: -845139819
+      weapon_hammer_58: -587188151
+      weapon_hammer_42: -1774591394
+      weapon_hammer_13: -1227644497
+      weapon_hammer_20: 288319456
+      weapon_hammer_36: -1261524342
+      weapon_hammer_30: -495088693
+      weapon_hammer_45: 358876819
+      weapon_hammer_35: -1085488336
+      weapon_hammer_62: 1174946656
+      weapon_hammer_63: 1963181768
+      weapon_hammer_6: 734565505
+      weapon_hammer_53: -703096717
+      weapon_hammer_16: -617788899
+      weapon_hammer_4: 819470736
+      weapon_hammer_38: 1256518607
+      weapon_hammer_54: -362897249
+      weapon_hammer_65: -840614926
+      weapon_hammer_60: -1019847221
+      weapon_hammer_24: -597371967
+      weapon_hammer_46: -1733627421
+      weapon_hammer_7: 948035511
+      weapon_hammer_71: -1076386960
+      weapon_hammer_50: -647571978
+      weapon_hammer_69: -294189179
+      weapon_hammer_18: 1887691605
+      weapon_hammer_21: -481128263
+      weapon_hammer_39: -1616191096
+      weapon_hammer_19: -1461748261
+      weapon_hammer_66: -732877234
+      weapon_hammer_27: 1462669685
+      weapon_hammer_55: 1498899258
+      weapon_hammer_22: 64033596
+      weapon_hammer_59: 666467930
+      weapon_hammer_29: -860676877
+      weapon_hammer_51: -1207718164
+      weapon_hammer_41: -1790287581
+      weapon_hammer_28: -1225358315
+      weapon_hammer_67: 1499281663
+      weapon_hammer_34: -297735641
+      weapon_hammer_15: -98161159
+      weapon_hammer_1: -1853910974
+      weapon_hammer_14: -296165392
+      weapon_hammer_23: 1330032096
+      weapon_hammer_12: -237722662
+      weapon_hammer_48: 788007933
+      weapon_hammer_52: 12137564
+      weapon_hammer_5: -102482157
+      weapon_hammer_70: -640227673
+      weapon_hammer_26: -1046815395
+      weapon_hammer_37: -2134145213
+      weapon_hammer_68: -148159107
+      weapon_hammer_11: 429149627
+      weapon_hammer_40: 1506812714
+      weapon_hammer_25: -805848428
+      weapon_hammer_57: 1673017390
+      weapon_hammer_47: 1992990536
+      weapon_hammer_2: -809611134
+      weapon_hammer_61: -763042272
+      weapon_hammer_32: 362020209
+      weapon_hammer_44: 2096368966
+      weapon_hammer_0: 1902813790
+      weapon_hammer_31: -238194440
+      weapon_hammer_43: 658304010
+      weapon_hammer_33: 755228803
+      weapon_hammer_49: 853708012
+      weapon_hammer_10: 906949884
+      weapon_hammer_64: -512227108
+      weapon_hammer_56: -2020934726
+      weapon_hammer_17: 186087146
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
